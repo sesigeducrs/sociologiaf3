@@ -1,0 +1,17 @@
+principal
+#a36781
+
+secundaria média fraca
+#d197b1
+
+secundaria mais fraca
+#d1a7b9
+
+media forte
+#7a5967
+
+mais forte
+#6a2141
+
+assentuda
+#dc0d68
